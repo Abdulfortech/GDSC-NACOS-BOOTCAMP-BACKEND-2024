@@ -10,3 +10,5 @@
   Welcome to the repository for the Backend Development track where you will learn about backend development using PHP.
 </div>
 
+
+This repository houses guidelines, tools and resources that will help you start backend development using php. 
