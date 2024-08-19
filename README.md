@@ -11,4 +11,21 @@
 </div>
 
 
-This repository houses guidelines, tools and resources that will help you start backend development using php. 
+This repository houses guidelines, tools and resources that will help you start backend development using php. So sitdown relax, and pay attention as we dive into the world of coding.
+
+# Table of Contents
+
+> All the sections for on this repo are only for Back-end development track of this bootcamp.
+
+<details>
+<summary> <a href="#welcome-to-the-course-repo">Welcome to the Course Repo!</a></summary>
+<ol>
+  <li>
+  <a href="#welcome-to-the-course">Welcome to the track! </a>
+  </li>
+  <li>
+  <a href="#best-practices">Best Practices </a>
+  </li>
+</ol>
+</details>
+
