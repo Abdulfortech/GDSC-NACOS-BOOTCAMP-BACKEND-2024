@@ -18,6 +18,21 @@ This repository houses guidelines, tools and resources that will help you start 
 > All the sections for on this repo are only for Back-end development track of this bootcamp.
 
 <details>
+  <summary>Requirements</summary>
+  <ol>
+    <li>Computer (if you have it)  </li>
+    <li>VS Code</li>
+    <li>XAMPP</li>
+  </ol>
+</details>
+<details>
+  <summary>Week 1 -> Day 1</summary>
+  <ol>
+    <li>Onboarding</li>
+    <li>Introduction</li>
+  </ol>
+</details>
+<details>
 <summary> <a href="#welcome-to-the-course-repo">Welcome to the Course Repo!</a></summary>
 <ol>
   <li>
