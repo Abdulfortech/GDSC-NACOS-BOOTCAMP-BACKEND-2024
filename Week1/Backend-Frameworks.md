@@ -24,4 +24,4 @@
 - **Use Cases**: APIs, microservices, data-intensive applications.
 
 
-Next Topic, see the [Databases](Week1/Databases.md).
+Next Topic, see the [Databases](Databases.md).

@@ -31,4 +31,4 @@
 - **Choosing the Right Stack**: It depends on the project’s requirements, the team’s expertise, and the specific use cases of the application.
 - **Next Steps**: Dive deeper into one of these languages and frameworks, practice building projects, and explore how they interact with different types of databases.
 
-Next Topic, see the [Backend Languages](Week1/Backend-languages.md).
+Next Topic, see the [Backend Languages](Backend-languages.md).
