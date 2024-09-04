@@ -91,7 +91,7 @@ This repository houses guidelines, tools and resources that will help you start 
 <details>
     <summary> Week 1 -> Assignments </summary>
     <ol>
-      <li>Assignment 1 :</li>
+      <li>Assignment 1 : <a href="Assignment1.md">Advanced Calculator Class</a></li>
       <li>Assignment 2 :</li>
       <li>Assignment 3 :</li>
     </ol>
